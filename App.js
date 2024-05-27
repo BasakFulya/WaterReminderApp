@@ -51,7 +51,7 @@ async function scheduleNotification() {
       },
       trigger: {
         repeats: true,
-        seconds: 60,
+        seconds: 2400,
       },
     });
   });
