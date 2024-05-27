@@ -272,5 +272,5 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     padding: 7,
   },
-  notificationText: { color: "white", fontWeight: "500", fontSize: 16 },
+  notificationText: { color: "white", fontWeight: "500", fontSize: 16,display:"inline-block"},
 });
